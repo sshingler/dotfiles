@@ -14,6 +14,7 @@ if [ -n "$PS1" ]; then PS1='\h:\w \u\$ '; fi
 
 alias ll="ls -lh"
 export BUNDLER_EDITOR=mate
+export NODE_PATH=/usr/local/lib/node_modules
 [[ -s "/Users/sshingler/.rvm/scripts/rvm" ]] && source "/Users/sshingler/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 
 if [ -f `brew --prefix`/etc/bash_completion ]; then
