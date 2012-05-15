@@ -1,0 +1,23 @@
+[user]
+	name = Steven Shingler
+	email = shingler@gmail.com
+[color]
+	ui = auto
+[gui]
+	fontdiff = -family Inconsolata -size 14 -weight normal -slant roman -underline 0 -overstrike 0
+[apply]
+	whitespace = nowarn
+[alias]
+	br = branch
+	ci = commit
+	co = checkout
+	di = diff
+	dc = diff --cached
+	st = status
+	x = !open -a GitX .
+	unstage = reset HEAD --
+	last = log -1 HEAD
+[push]
+	default = current
+[core]
+	whitespace = trailing-space,space-before-tab,-indent-with-non-tab,-cr-at-eol
