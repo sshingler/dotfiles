@@ -21,6 +21,8 @@
 .bash_history
 .irb-history
 .ssh
+.gnupg
+.node-gyp
 Desktop
 Documents
 Downloads
