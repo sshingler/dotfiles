@@ -6,6 +6,7 @@
 .heroku
 .lesshst
 .mysql_history
+.openvpn-connect.json
 .npm
 .rdebug_hist
 .ruby_inline
@@ -20,6 +21,8 @@
 .dropbox
 .bash_history
 .irb-history
+.irb_history
+.sso
 .ssh
 .gnupg
 .node-gyp
