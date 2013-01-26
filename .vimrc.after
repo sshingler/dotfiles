@@ -1,0 +1,16 @@
+set encoding=utf-8
+colorscheme pyte
+" Whitespace stuff
+set nowrap
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set expandtab
+set list listchars=tab:\ \ ,trail:·
+set wrap
+set showbreak=»\ \ \ 
+set linebreak
+set t_Co=256
+nmap <Tab> :CtrlPMRU<CR>
+nmap <Leader>t :NERDTreeToggle<CR>
+

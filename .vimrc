@@ -1,1 +1,1 @@
-/Users/stevenshingler/.vim/janus/vim/vimrc
+/Users/sshingler/.vim/janus/vim/vimrc
