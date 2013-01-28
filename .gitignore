@@ -26,6 +26,8 @@
 .ssh
 .gnupg
 .node-gyp
+.zcompdump
+.zsh_history
 Desktop
 Documents
 Downloads
