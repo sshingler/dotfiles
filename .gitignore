@@ -24,6 +24,7 @@
 .irb_history
 .sso
 .ssh
+.subversion
 .gnupg
 .node-gyp
 .zcompdump
